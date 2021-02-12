@@ -94,7 +94,7 @@ We will refer to these lineages as 19B:501Y & 19B:501T.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 5 -->
-# [19B:501Y & 19B:501T share multiple spike mutations with variants of concern](https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?branchLabel=aa&c=gt-S_501&d=tree,map&f_clade_membership=19B&gt=S.501Y,501T&p=grid&label=zoom:N501YT&legend=open)
+# [19B:501Y & 19B:501T share multiple spike mutations with variants of concern](https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?branchLabel=aa&c=gt-S_501&d=tree,map&f_clade_membership=19B&gt=S.501Y,501T&label=zoom:N501YT&legend=open&p=grid&tl=country)
 
 <!-- This is the left-side text -->
 Both spike 501 substitutions emerged on a 614D background.
@@ -110,7 +110,7 @@ A [preprint by McCallum et al](https://www.biorxiv.org/content/10.1101/2021.01.1
 The lineage also contains spike A653V, D796Y, G1219V, and L452R.
 We will discuss L452R emergences later in this report.
 
-19B:501Y has been sampled in Mayotte, Turkey, England, France, the Netherlands, Switzerland, and Denmark.
+19B:501Y has been sampled in Turkey, England, France, the Netherlands, Switzerland, and Denmark.
 
 <!-- There is NO right-side text on this slide -->
 
@@ -128,9 +128,7 @@ In a deep mutational scanning experiment of the receptor binding domain by [Star
 
 E484K (yellow) emerged within this subclade.
 This mutation is present in 501Y.V2 and 501Y.V3.
-Multiple preprints have demonstrated reduced neutralization to convalescent sera, monoclonal antibodies and sera from individuals with Moderna or Pfizer-BioNTech vaccines with this mutation ([Greaney et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1), [Liu et al](https://www.biorxiv.org/content/10.1101/2020.11.06.372037v1), and [Wang et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1)).
-
-R190S, a mutation also present in 501Y.V3, occurs on the branch leading up to E484K.
+Multiple preprints have demonstrated reduced neutralization to convalescent sera, monoclonal antibodies and sera from individuals with Moderna or Pfizer-BioNTech vaccines with this mutation ([Greaney et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1), [Liu et al](https://www.biorxiv.org/content/10.1101/2020.11.06.372037v1), and [Wang et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1)). Spike R102I occurs on the branch leading up to E484K.
 
 <!-- There is NO right-side text on this slide -->
 
@@ -141,9 +139,12 @@ R190S, a mutation also present in 501Y.V3, occurs on the branch leading up to E4
 Coloring by amino acid at spike position 452, we observe three independent emergences of 452R mutations (blue) and one emergence of a 452M mutation (yellow). L452R has been observed in a [lineage growing in frequency in California]((https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-020.aspx) but the biological impact of this mutation, if any, is unknown.
 
 One emergence of 452R is in 19B:501Y on a 614D backbone.
+
 The second emergence was on a 614N backbone along with spike R190S, a mutation also present in 501Y.V3
+
 The third emergence occurred on 614G backbone.
-This lineage also contains deletions at spike positions 140-143. A 143-144 deletion is observed in 501Y.V1.
+This lineage also contains deletions at spike positions 140-143.
+An adjacent 144 deletion is observed in 501Y.V1.
 
 These independent appearances of 452R could be examples of convergent evolution, which would suggest this mutation boosts viral fitness.
 
@@ -151,33 +152,47 @@ These independent appearances of 452R could be examples of convergent evolution,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 8 -->
-# [Closing summary](https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?d=tree,map,entropy&legend=open)
+# [Spike mutations in 19B](https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?d=tree,map,entropy&legend=open)
 
 <!-- This is the left-side text -->
-In this report, we explored the genetic composition of viruses currently circulating in clade 19B.
-We observed many 'familiar' mutations, including multiple emergences of spike D614G.
-
-We found the following spike mutations also present in a variant of concern (501Y.V1, 501Y.V2, and 501Y.V3):
-- 18F
+Present in a variant of concern (501Y.V1, 501Y.V2, and 501Y.V3):
+- L18F
 - 69-70 del
-- 143 del (along with 140-142 del)
-- 190S
-- 484K (reduced neutralization)
-- 501Y (and 501T) (enhanced ACE2 binding)
-- 614G (increased infectivity) (and 614N)
-- 655Y
-- 681R (681P is present in 501Y.V1)
+- R190S
+- E484K (reduced neutralization)
+- N501Y (and N501T) (enhanced ACE2 binding)
+- D614G (increased infectivity) (and D614N)
+- H655Y
+- P681R (P681H is present in 501Y.V1)
 
-There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC.
-These include the 19B:501Y lineage and the 19B:501T lineages.
+Present in lineages also containing a mutation in a VOC:
+- L141F
+- R102I
+- 140-143 del (501Y.V1 has a Y144 del)
+- F157L
+- A348T
+- 367F
+- L452R
+- Q613H
+- A653V
+- Q677H
+- D796Y
+- G1219V
 
-We also see three independent emergences of L452R.
-This mutation was identified in a [lineage circulating in California](https://nextstrain.org/groups/neherlab/ncov/S.L452R?f_country=USA) and has an unknown biological impact.
-Its recurrent emergence suggests it could boost viral fitness.
+<!-- This is the right-side text -->
+```auspiceMainDisplayMarkdown
 
-We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge.
-While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
+# Closing summary
 
+### In this report, we explored the genetic composition of viruses currently circulating in clade 19B. We observed many 'familiar' mutations, including multiple emergences of spike D614G.
+
+### There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC.These include the 19B:501Y lineage and  the 19B:501T lineages.
+
+### We also see three independent emergences of L452R. This mutation was identified in a [lineage circulating in California](https://nextstrain.org/groups/neherlab/ncov/S.L452R?f_country=USA) and has an unknown biological impact. Its recurrent emergence suggests it could boost viral fitness.
+
+### We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge. While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
+
+```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 9 -->
