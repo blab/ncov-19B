@@ -1,22 +1,22 @@
 ---
-title: Resurgence of SARS-CoV-2 19B lineage
+title: Resurgence of SARS-CoV-2 19B clade corresponds with possible convergent evolution
 authors:
   - Cassia Wagner
   - Emma Hodcroft
-  - Richard Neher
+  - Sidney M. Bell
   - Trevor Bedford
 
 authorLinks:
   - https://bedford.io/team/cassia-wagner/
   - https://www.ispm.unibe.ch/about_us/staff/hodcroft_emma/index_eng.html#pane1013282
-  - https://neherlab.org/richard-neher.html
+  - https://twitter.com/sidneymbell
   - https://bedford.io/team/trevor-bedford/
-affiliations: "Fred Hutch, Seattle, USA; ISPM, Bern, Switzerland, Biozentrum, Basel, Switzerland"
+affiliations: "Fred Hutch, Seattle, USA; ISPM, Bern, Switzerland, CZI, CA, USA"
 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open"
-date: "2021 February 11"
+date: "2021 February 12"
 
 abstract: "Clade 19B viruses which had largely disappeared from circulation have slightly increased in frequency in December 2020 and January 2021.
 Here we explore the genetic composition of viruses currently circulating in 19B. We find multiple recent clusters and numerous examples of convergent evolution in the spike protein, which may contribute to its increasing frequency."
@@ -27,7 +27,7 @@ Here we explore the genetic composition of viruses currently circulating in 19B.
 
 <!-- SLIDE 1 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Resurgence of clade 19B](https://nextstrain.org/ncov/global?d=tree&p=full)
+# [Resurgence of clade 19B](https://nextstrain.org/ncov/global/2020-02-11-2021?d=tree&p=full)
 
 <!-- This is left-side text -->
 Here we see the SARS-CoV-2 global phylogeny colored by viral clade.
@@ -46,7 +46,7 @@ In December 2020 and January 2021, we estimated 3% of all viruses to be 19B.
 This resurgence of a viral clade that had largely died out, particularly when multiple new variants of concern from the 20 clades are displacing other variants in many countries, is surprising.
 
 To explore this phenomenon, we built a phylogeny enriched for recent 19A & 19B viruses.
-In this report, we use that phylogeny to explore the genetic composition of currently circulating 19B virus.
+In this report, we use that phylogeny to explore the genetic composition of currently circulating 19B virus. We find multiple recent clusters and numerous examples of convergent evolution in the spike protein.
 
 <!-- There is NO right-side text on this slide -->
 
@@ -67,11 +67,12 @@ For example, almost half of all recent 19B sequences come from the UK, which is 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3 -->
-# [Independent emergences of Spike 614G & 614N](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_614&d=tree&p=full&legend=open)
+# [Recurrent emergence of Spike 614G (increased infectivity) & 614N ](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_614&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
 Coloring the tree by amino acid at spike 614, we observe multiple independent emergences of 614G and 614N in 19B & 19A.
 _In vitro_ ([Zhang et al](https://www.nature.com/articles/s41467-020-19808-4), [Yurkovetskiy et al](https://www.sciencedirect.com/science/article/pii/S0092867420312290), [Korber et al](https://pubmed.ncbi.nlm.nih.gov/32697968/)) and _in vivo_ work in mice and hamsters ([Hou et al](https://science.sciencemag.org/content/370/6523/1464), [Plante et al](https://www.nature.com/articles/s41586-020-2895-3)) demonstrate increased infectivity with the 614G substitution.
+To our knowledge, no analysis exploring the biological impact of 614N is currently available.
 
 These examples of convergent evolution in the 19 clades add further support to a fitness advantage.
 They also suggest that SARS-CoV-2 populations are actively being shaped by natural selection.
@@ -80,7 +81,7 @@ They also suggest that SARS-CoV-2 populations are actively being shaped by natur
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 4 -->
-# [Emergence of 501Y & 501T lineages in 19B](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_501&d=tree&p=full&legend=open)
+# [Emergence of 501Y & 501T (enhanced ACE2 binding) in 19B](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_501&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
 We also observe emergence of spike 501Y (blue) and 501T (yellow) lineages in 19B.
@@ -115,7 +116,7 @@ We will discuss L452R emergences later in this report.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 6 -->
-# [E484K present in 19B](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_484&d=tree&f_clade_membership=19B&gt=S.613H&label=clade:19B&legend=open)
+# [E484K (reduced neutralization) present in 19B](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_484&d=tree&f_clade_membership=19B&gt=S.613H&label=clade:19B&legend=open)
 
 <!-- This is the left-side text -->
 Here we are highlighting another subclade in 19B with multiple spike mutations.
@@ -135,7 +136,7 @@ R190S, a mutation also present in 501Y.V3, occurs on the branch leading up to E4
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 7 -->
-# [Multiple emergences of L452R](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_452&d=tree&f_clade_membership=19B&p=full&label=clade:19B&legend=open)
+# [Multiple emergences of L452R (impact unknown)](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_452&d=tree&f_clade_membership=19B&p=full&label=clade:19B&legend=open)
 <!-- This is the left-side text -->
 Coloring by amino acid at spike position 452, we observe three independent emergences of 452R mutations (blue) and one emergence of a 452M mutation (yellow). L452R has been observed in a [lineage growing in frequency in California]((https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-020.aspx) but the biological impact of this mutation, if any, is unknown.
 
@@ -161,9 +162,9 @@ We found the following spike mutations also present in a variant of concern (501
 - 69-70 del
 - 143 del (along with 140-142 del)
 - 190S
-- 484K
-- 501Y (and 501T)
-- 614G (and 614N)
+- 484K (reduced neutralization)
+- 501Y (and 501T) (enhanced ACE2 binding)
+- 614G (increased infectivity) (and 614N)
 - 655Y
 - 681R (681P is present in 501Y.V1)
 
