@@ -1,5 +1,5 @@
 ---
-title: Resurgence of SARS-CoV-2 19B lineages.
+title: Resurgence of SARS-CoV-2 19B lineage
 authors:
   - Cassia Wagner
   - Emma Hodcroft
@@ -18,29 +18,16 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open"
 date: "2021 February 10"
 
-abstract: ""
+abstract: "Clade 19B viruses which had largely disappeared from circulation have slightly increased in frequency over the past two months.
+Here we explore the genetic composition of viruses currently circulating in 19B. We find numerous examples of convergent evolution in the spike protein, which may contribute to its increasing frequency."
 ---
 
 <!-- Comment tags like these are not rendered, they're just helpful for you -->
 <!-- Known 'gotcha' bug: ensure that links always end in a 'letter' (a period counts). If some kind of text doesn't follow them, it breaks the slide. -->
 
-!-- table of contents slide -->
-# [Table of Contents](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open)
-
-
-<!-- This is the right-side text -->
-```auspiceMainDisplayMarkdown
-
-# Executive Summary
-
-
-
-```
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 2 -->
+<!-- SLIDE 1 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Low-level transmission of clade 19B](https://nextstrain.org/ncov/global?d=tree&p=full)
+# [Resurgence of clade 19B](https://nextstrain.org/ncov/global?d=tree&p=full)
 
 <!-- This is left-side text -->
 Here we see the SARS-CoV-2 global phylogeny colored by viral clade.
@@ -57,6 +44,7 @@ However, transmission did continue at low levels. Recently, we have observed a s
 In December and January, we estimated 3% of all viruses to be 19B.
 
 This resurgence of a viral clade that had largely died out, especially during the worst phase of the pandemic, is surprising.
+
 To explore this phenomenon, we built a phylogeny enriched for recent 19A & 19B viruses.
 In this report, we use that phylogeny to explore the genetic composition of currently circulating 19B virus.
 
@@ -64,7 +52,7 @@ In this report, we use that phylogeny to explore the genetic composition of curr
 
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 3 -->
+<!-- SLIDE 2 -->
 # [Recent 19B are present across the globe](https://nextstrain.org/groups/blab/ncov/19B?c=country&d=tree,map&dmin=2020-11-01&label=clade:19B&p=grid&legend=open)
 
 <!-- This is the left-side text -->
@@ -78,7 +66,7 @@ For example, almost half of all recent 19B sequences come from the UK, which is 
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 4 -->
+<!-- SLIDE 3 -->
 # [Independent emergences of Spike 614G & 614N](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_614&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
@@ -91,7 +79,7 @@ They also suggest that SARS-CoV-2 populations are actively being shaped by natur
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 5 -->
+<!-- SLIDE 4 -->
 # [Emergence of 501Y & 501T lineages in 19B](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_501&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
@@ -104,7 +92,7 @@ We will refer to these lineages as 19B:501Y & 19B:501T.
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 6 -->
+<!-- SLIDE 5 -->
 # [19B:501Y & 19B:501T share spike mutations with variants of concern](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_501&d=tree,map&f_clade_membership=19B&gt=S.501Y,501T&p=grid&label=clade:19B&legend=open)
 
 <!-- This is the left-side text -->
@@ -126,7 +114,7 @@ We will discuss L452R emergences later in this report.
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 7 -->
+<!-- SLIDE 6 -->
 # [E484K present in 19B](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_484&d=tree&f_clade_membership=19B&gt=S.613H&label=clade:19B&legend=open)
 
 <!-- This is the left-side text -->
@@ -146,7 +134,7 @@ R190S, a mutation present in 501Y.V3, occurs on the branch leading up to E484K.
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 8 -->
+<!-- SLIDE 7 -->
 # [Multiple emergences of L452R](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_452&d=tree&f_clade_membership=19B&p=full&label=clade:19B&legend=open)
 <!-- This is the left-side text -->
 Coloring by amino acid at spike 452, we observe three independent emergences of 452R mutations (blue) and one emergence of a 452M mutation (yellow). L452R has been observed in a [lineage growing in frequency in California]((https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-020.aspx) but the biological impact of this mutation, if any, is unknown.
@@ -161,16 +149,41 @@ These independent appearances of 452R could be examples of convergent evolution,
 <!-- There is NO right-side text on this slide -->
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 9 -->
+<!-- SLIDE 8 -->
 # [Closing summary](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open)
 
 <!-- This is the left-side text -->
+Spike mutations in 19B also present in a variant of concern (501Y.V1, 501Y.V2, and 501Y.V3):
+- 18F
+- 69-70 del
+- 143 del (along with 140-142 del)
+- 190S
+- 484K
+- 501Y (and 501T)
+- 614G (and 614N)
+- 655Y
+- 681R (681P is present in 501Y.V1)
 
+<!-- This is the right-side text-->
 
-<!-- There is NO right-side text on this slide -->
+```auspiceMainDisplayMarkdown
+
+In this report, we explored the genetic composition of viruses currently circulating in clade 19B.
+We observed many 'familiar' mutations, including multiple emergences of spike D614G.
+
+There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC.
+These include 19B:501Y lineage and 19B:501T lineages.
+
+We also see three independent emergences of L452R.
+This mutation was identified in a lineage circulating in California and has an unknown biological impact.
+Its recurrent emergence suggests it could boost viral fitness.
+
+We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge.
+While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
+```
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- SLIDE 10 -->
+<!-- SLIDE 9 -->
 # [Scientific credit](https://nextstrain.org/groups/blab/ncov/19B?legend=open&d=map)
 <!-- This is the left-side text -->
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
