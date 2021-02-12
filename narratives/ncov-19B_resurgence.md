@@ -171,7 +171,7 @@ Present in lineages also containing a mutation in a VOC:
 - 140-143 del (501Y.V1 has a Y144 del)
 - F157L
 - A348T
-- 367F
+- V367F
 - L452R
 - Q613H
 - A653V
@@ -184,13 +184,13 @@ Present in lineages also containing a mutation in a VOC:
 
 # Closing summary
 
-### In this report, we explored the genetic composition of viruses currently circulating in clade 19B. We observed many 'familiar' mutations, including multiple emergences of spike D614G.
+#### In this report, we explored the genetic composition of viruses currently circulating in clade 19B. We observed many 'familiar' mutations, including multiple emergences of spike D614G.
 
-### There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC.These include the 19B:501Y lineage and  the 19B:501T lineages.
+#### There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC. These include the 19B:501Y lineage and the 19B:501T lineages.
 
-### We also see three independent emergences of L452R. This mutation was identified in a [lineage circulating in California](https://nextstrain.org/groups/neherlab/ncov/S.L452R?f_country=USA) and has an unknown biological impact. Its recurrent emergence suggests it could boost viral fitness.
+#### We also see three independent emergences of L452R. This mutation was identified in a [lineage circulating in California](https://nextstrain.org/groups/neherlab/ncov/S.L452R?f_country=USA) and has an unknown biological impact. Its recurrent emergence suggests it could boost viral fitness.
 
-### We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge. While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
+#### We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge. While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
 
 ```
 
