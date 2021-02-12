@@ -27,7 +27,7 @@ Here we explore the genetic composition of viruses currently circulating in 19B.
 
 <!-- SLIDE 1 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Resurgence of clade 19B](https://nextstrain.org/ncov/global/2020-02-11-2021?d=tree&p=full)
+# [Resurgence of clade 19B](https://nextstrain.org/ncov/global/2021-02-11?d=tree&p=full)
 
 <!-- This is left-side text -->
 Here we see the SARS-CoV-2 global phylogeny colored by viral clade.
