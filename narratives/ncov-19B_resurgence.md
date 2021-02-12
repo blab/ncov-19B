@@ -15,7 +15,7 @@ affiliations: "Fred Hutch, Seattle, USA; ISPM, Bern, Switzerland, Biozentrum, Ba
 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legendOpen"
+dataset: "https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open"
 date: "2021 February 10"
 
 abstract: ""
@@ -25,7 +25,7 @@ abstract: ""
 <!-- Known 'gotcha' bug: ensure that links always end in a 'letter' (a period counts). If some kind of text doesn't follow them, it breaks the slide. -->
 
 !-- table of contents slide -->
-# [Table of Contents](https://nextstrain.org/groups/blab/ncov/19B)
+# [Table of Contents](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open)
 
 
 <!-- This is the right-side text -->
@@ -65,7 +65,7 @@ In this report, we use that phylogeny to explore the genetic composition of curr
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3 -->
-# [Recent 19B are present across the globe](https://nextstrain.org/groups/blab/ncov/19B?c=country&d=tree,map&dmin=2020-11-01&label=clade:19B&p=grid&legendOpen)
+# [Recent 19B are present across the globe](https://nextstrain.org/groups/blab/ncov/19B?c=country&d=tree,map&dmin=2020-11-01&label=clade:19B&p=grid&legend=open)
 
 <!-- This is the left-side text -->
 Here we show all available sequences in clade 19B sampled from November 2020 onward.
@@ -79,7 +79,7 @@ For example, almost half of all recent 19B sequences come from the UK, which is 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 4 -->
-# [Independent emergences of Spike 614G & 614N](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_614&d=tree&p=full&legendOpen)
+# [Independent emergences of Spike 614G & 614N](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_614&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
 Coloring the tree by amino acid at spike 614, we observe, multiple independent emergences of 614G and 614N in 19B & 19A.
@@ -92,7 +92,7 @@ They also suggest that SARS-CoV-2 populations are actively being shaped by natur
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 5 -->
-# [Emergence of 501Y & 501T lineages in 19B](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_501&d=tree&p=full&legendOpen)
+# [Emergence of 501Y & 501T lineages in 19B](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_501&d=tree&p=full&legend=open)
 
 <!-- This is the left-side text -->
 We also observe emergence of spike 501Y (blue) and 501T (yellow) lineages in 19B.
@@ -105,7 +105,7 @@ We will refer to these lineages as 19B:501Y & 19B:501T.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 6 -->
-# [19B:501Y & 19B:501T share spike mutations with variants of concern](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_501&d=tree,map&f_clade_membership=19B&gt=S.501Y,501T&p=grid&label=clade:19B&legendOpen)
+# [19B:501Y & 19B:501T share spike mutations with variants of concern](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_501&d=tree,map&f_clade_membership=19B&gt=S.501Y,501T&p=grid&label=clade:19B&legend=open)
 
 <!-- This is the left-side text -->
 Both spike 501 substitutions emerged on a 614D background.
@@ -127,7 +127,7 @@ We will discuss L452R emergences later in this report.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 7 -->
-# [E484K present in 19B](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_484&d=tree&f_clade_membership=19B&gt=S.613H&label=clade:19B&legendOpen)
+# [E484K present in 19B](https://nextstrain.org/groups/blab/ncov/19B?branchLabel=aa&c=gt-S_484&d=tree&f_clade_membership=19B&gt=S.613H&label=clade:19B&legend=open)
 
 <!-- This is the left-side text -->
 Here we are highlighting another subclade in 19B with multiple spike mutations.
@@ -147,7 +147,7 @@ R190S, a mutation present in 501Y.V3, occurs on the branch leading up to E484K.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 8 -->
-# [Multiple emergences of L452R](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_452&d=tree&f_clade_membership=19B&p=full&label=clade:19B&legendOpen)
+# [Multiple emergences of L452R](https://nextstrain.org/groups/blab/ncov/19B?c=gt-S_452&d=tree&f_clade_membership=19B&p=full&label=clade:19B&legend=open)
 <!-- This is the left-side text -->
 Coloring by amino acid at spike 452, we observe three independent emergences of 452R mutations (blue) and one emergence of a 452M mutation (yellow). L452R has been observed in a [lineage growing in frequency in California]((https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-020.aspx) but the biological impact of this mutation, if any, is unknown.
 
@@ -162,7 +162,7 @@ These independent appearances of 452R could be examples of convergent evolution,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 9 -->
-# [Closing summary](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legendOpen)
+# [Closing summary](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open)
 
 <!-- This is the left-side text -->
 
@@ -171,7 +171,7 @@ These independent appearances of 452R could be examples of convergent evolution,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 10 -->
-# [Scientific credit](https://nextstrain.org/groups/blab/ncov/19B?legendOpen&d=map)
+# [Scientific credit](https://nextstrain.org/groups/blab/ncov/19B?legend=open&d=map)
 <!-- This is the left-side text -->
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
