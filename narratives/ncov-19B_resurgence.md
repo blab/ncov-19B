@@ -16,7 +16,7 @@ affiliations: "Fred Hutch, Seattle, USA; ISPM, Bern, Switzerland, Biozentrum, Ba
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open"
-date: "2021 February 10"
+date: "2021 February 11"
 
 abstract: "Clade 19B viruses which had largely disappeared from circulation have slightly increased in frequency over the past two months.
 Here we explore the genetic composition of viruses currently circulating in 19B. We find numerous examples of convergent evolution in the spike protein, which may contribute to its increasing frequency."
@@ -153,7 +153,10 @@ These independent appearances of 452R could be examples of convergent evolution,
 # [Closing summary](https://nextstrain.org/groups/blab/ncov/19B?d=tree,map,entropy&legend=open)
 
 <!-- This is the left-side text -->
-Spike mutations in 19B also present in a variant of concern (501Y.V1, 501Y.V2, and 501Y.V3):
+In this report, we explored the genetic composition of viruses currently circulating in clade 19B.
+We observed many 'familiar' mutations, including multiple emergences of spike D614G.
+
+We found the following spike mutations also present in a variant of concern (501Y.V1, 501Y.V2, and 501Y.V3):
 - 18F
 - 69-70 del
 - 143 del (along with 140-142 del)
@@ -164,13 +167,6 @@ Spike mutations in 19B also present in a variant of concern (501Y.V1, 501Y.V2, a
 - 655Y
 - 681R (681P is present in 501Y.V1)
 
-<!-- This is the right-side text-->
-
-```auspiceMainDisplayMarkdown
-
-In this report, we explored the genetic composition of viruses currently circulating in clade 19B.
-We observed many 'familiar' mutations, including multiple emergences of spike D614G.
-
 There are 5 different SARS-CoV-2 lineages in 19B with at least two spike mutations present in a VOC.
 These include 19B:501Y lineage and 19B:501T lineages.
 
@@ -180,7 +176,7 @@ Its recurrent emergence suggests it could boost viral fitness.
 
 We find evidence of convergent evolution in the spike protein within 19B, which may have enabled these lineages to resurge.
 While the proportion of 19B viruses remains quite low, it highlights that SARS-CoV-2 continues to adapt.
-```
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 9 -->
