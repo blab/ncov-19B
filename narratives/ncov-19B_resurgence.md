@@ -34,7 +34,7 @@ Here we see the SARS-CoV-2 global phylogeny colored by viral clade.
 Clades 19A & 19B, in purple and dark blue at the bottom of the tree, predominated early in the pandemic.
 However, these clades were soon eclipsed by viruses in clade 20A and its descendants.
 
-Clade 20A probably dominated for multiple reasons:
+Clade 20A and descendants probably dominated for multiple reasons:
 This clade was exported globally, especially to Europe, as early as January 2020 where it spread rapidly undetected for over a month prior to lockdowns.
 Additionally, spike D614G is one of the clade-defining mutations, and this substitution likely confers [increased transmissibility](https://pubmed.ncbi.nlm.nih.gov/32697968/).
 
@@ -43,7 +43,7 @@ Regardless, by June 2020, less than 10% of circulating virus were from clades 19
 However, transmission did continue at low levels. Recently, we have observed a slight increase in the frequency of 19B.
 In December 2020 and January 2021, we estimated 3% of all viruses to be 19B.
 
-This resurgence of a viral clade that had largely died out, particularly when multiple new variants of concern from the 20 clades are displacing other variants in many countries, is surprising.
+This resurgence of a viral clade that had largely died out is particularly surprising now because in many countries multiple new variants of concern descended from 20B & 20C are displacing other variants.
 
 To explore this phenomenon, we built a phylogeny enriched for recent 19A & 19B viruses.
 In this report, we use that phylogeny to explore the genetic composition of currently circulating 19B virus. We find multiple recent clusters and numerous examples of convergent evolution in the spike protein.
@@ -74,7 +74,7 @@ Coloring the tree by amino acid at spike 614, we observe multiple independent em
 _In vitro_ ([Zhang et al](https://www.nature.com/articles/s41467-020-19808-4), [Yurkovetskiy et al](https://www.sciencedirect.com/science/article/pii/S0092867420312290), [Korber et al](https://pubmed.ncbi.nlm.nih.gov/32697968/)) and _in vivo_ work in mice and hamsters ([Hou et al](https://science.sciencemag.org/content/370/6523/1464), [Plante et al](https://www.nature.com/articles/s41586-020-2895-3)) demonstrate increased infectivity with the 614G substitution.
 To our knowledge, no analysis exploring the biological impact of 614N is currently available.
 
-These examples of convergent evolution in the 19 clades add further support to a fitness advantage.
+These examples of convergent evolution in the 19A & 19B add further support to a fitness advantage.
 They also suggest that SARS-CoV-2 populations are actively being shaped by natural selection.
 
 <!-- There is NO right-side text on this slide -->
@@ -128,7 +128,7 @@ In a deep mutational scanning experiment of the receptor binding domain by [Star
 
 E484K (yellow) emerged within this subclade.
 This mutation is present in 501Y.V2 and 501Y.V3.
-Multiple preprints have demonstrated reduced neutralization to convalescent sera, monoclonal antibodies and sera from individuals with Moderna or Pfizer-BioNTech vaccines with this mutation ([Greaney et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1), [Liu et al](https://www.biorxiv.org/content/10.1101/2020.11.06.372037v1), and [Wang et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1)). Spike R102I occurs on the branch leading up to E484K.
+Multiple preprints have demonstrated reduced neutralization to convalescent sera, monoclonal antibodies, and sera from individuals with Moderna or Pfizer-BioNTech vaccines with this mutation ([Greaney et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1), [Liu et al](https://www.biorxiv.org/content/10.1101/2020.11.06.372037v1), and [Wang et al](https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1)). Spike R102I occurs on the branch leading up to E484K.
 
 <!-- There is NO right-side text on this slide -->
 
