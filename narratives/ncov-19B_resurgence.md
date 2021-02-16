@@ -16,7 +16,7 @@ affiliations: "Fred Hutch, Seattle, USA; ISPM, Bern, Switzerland, CZI, CA, USA"
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?d=tree,map,entropy&legend=open"
-date: "2021 February 12"
+date: "2021 February 16"
 
 abstract: "Clade 19B viruses which had largely disappeared from circulation have slightly increased in frequency in December 2020 and January 2021.
 Here we explore the genetic composition of viruses currently circulating in 19B. We find multiple recent clusters and numerous examples of convergent evolution in the spike protein, which may contribute to its increasing frequency."
@@ -32,9 +32,9 @@ Here we explore the genetic composition of viruses currently circulating in 19B.
 <!-- This is left-side text -->
 Here we see the SARS-CoV-2 global phylogeny colored by viral clade.
 Clades 19A & 19B, in purple and dark blue at the bottom of the tree, predominated early in the pandemic.
-However, these clades were soon eclipsed by viruses in clade 20.
+However, these clades were soon eclipsed by viruses in clade 20A and its descendants.
 
-Clade 20 probably dominated for multiple reasons:
+Clade 20A probably dominated for multiple reasons:
 This clade was exported globally, especially to Europe, as early as January 2020 where it spread rapidly undetected for over a month prior to lockdowns.
 Additionally, spike D614G is one of the clade-defining mutations, and this substitution likely confers [increased transmissibility](https://pubmed.ncbi.nlm.nih.gov/32697968/).
 
@@ -198,7 +198,7 @@ Present in lineages also containing a mutation in a VOC:
 <!-- SLIDE 9 -->
 # [Scientific credit](https://nextstrain.org/groups/blab/ncov/19B/2021-02-11?legend=open&d=map)
 <!-- This is the left-side text -->
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+We would like to acknowledge the amazing and timely work done by all scientists during this pandemic.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
 
 **We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
