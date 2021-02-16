@@ -1,0 +1,41 @@
+# Defines path to custom rules
+custom_rules:
+  - my_profiles/19B/download_preprocessed.smk
+
+S3_BUCKET: "nextstrain-ncov-private"
+
+# Define custom auspice configuration to enable frequencies.
+files:
+  auspice_config: "my_profiles/19B/auspice_config.json"
+
+# Define WA builds.
+builds:
+  clade_background:
+    title: "SARS-CoV-2 genomic analysis: 19A & 19B"
+    description: my_profiles/19B/description.md
+    clade1: 19B
+    clade2: 19A
+    earliest_date: 2020-11-01
+    subsampling_scheme: clade
+
+# Define subsampling scheme for builds. This scheme should include as much
+# local diversity for a given division as possible and contextual samples from
+# the rest of the USA and the world.
+subsampling:
+  clade:
+    clade-focus:
+      group_by: "Nextstrain_clade"
+      max_sequences: 900
+      min_date: --min-date {earliest_date}
+      query: --query "(Nextstrain_clade  == '{clade1}' | Nextstrain_clade == '{clade2}')"
+    background_clades:                                                                                                                                       # are that are genetically similar to the current division's sequences.
+      group_by: "year month country"
+      max_sequences: 200
+      max_date: --max-date {earliest_date}
+      query: --query "(Nextstrain_clade  == '{clade1}' | Nextstrain_clade == '{clade2}')"
+      priorities:
+        type: proximity
+        focus: clade-focus
+    background:                                                                                                                                       # are that are genetically similar to the current division's sequences.
+      group_by: "year month country"
+      max_sequences: 1200
