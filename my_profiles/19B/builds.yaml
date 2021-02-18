@@ -25,11 +25,11 @@ subsampling:
   clade:
     clade-focus:
       group_by: "Nextstrain_clade"
-      max_sequences: 900
+      max_sequences: 2000
       min_date: --min-date {earliest_date}
       query: --query "(Nextstrain_clade  == '{clade1}' | Nextstrain_clade == '{clade2}')"
     background_clades:                                                                                                                                       # are that are genetically similar to the current division's sequences.
-      group_by: "year month country"
+      group_by: "year month"
       max_sequences: 200
       max_date: --max-date {earliest_date}
       query: --query "(Nextstrain_clade  == '{clade1}' | Nextstrain_clade == '{clade2}')"
@@ -37,5 +37,5 @@ subsampling:
         type: proximity
         focus: clade-focus
     background:                                                                                                                                       # are that are genetically similar to the current division's sequences.
-      group_by: "year month country"
+      group_by: "year month region Nextstrain_clade"
       max_sequences: 1200
